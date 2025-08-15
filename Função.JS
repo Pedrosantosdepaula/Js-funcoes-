@@ -1,11 +1,11 @@
-// let idade = 20;
-// let preco = 120.5;
-// let nome = "pedro"
-// let sobrenome = "santos"
-// console.log("meu nome é",nome,""+ sobrenome,"e tenho",idade,"anos")
+let idade1 = 20;
+let preco = 120.5;
+let nome = "pedro"
+let sobrenome = "santos"
+console.log("meu nome é",nome,""+ sobrenome,"e tenho",idade,"anos")
 
-// console.log("minha idade e", idade);
-// console.log("o preco e", preco);
+console.log("minha idade e", idade);
+console.log("o preco e", preco);
 
 function nome(){
 return "pedro"
@@ -28,3 +28,4 @@ let idade = anos()
 let profissao = trabalho()
 
 console.log("meu nome é",id,name2,",","tenho", idade,"anos", "e sou",profissao)
+ 
